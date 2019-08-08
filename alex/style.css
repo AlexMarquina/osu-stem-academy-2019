@@ -1,0 +1,26 @@
+.center {
+  text-align: center;
+}
+.card-title {
+  font-size: 120px;
+  color: white
+}
+.card-img-overlay {
+  padding-top: 25%;
+}
+.card-text {
+  color: black;
+  text-align: left;
+  font-size: 24px
+}
+.small-card-title{
+  font-size: 50px;
+}
+.card {
+  height: 100%;
+}
+@media only screen and (max-width: 800px) {
+  .card-title {
+    font-size: 60px
+  }
+}
